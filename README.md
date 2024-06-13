@@ -22,4 +22,4 @@ The real-time video chat application provides a seamless video communication exp
 - **JavaScript:** The programming language used for both front-end and back-end development.
 - **HTML & CSS:** Markup and styling languages used to create the structure and design of the web application.
 - **Node.js:** A JavaScript runtime environment that executes server-side code.
-- 
+  
